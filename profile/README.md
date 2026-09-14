@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://myeeco.com"><img src="https://img.shields.io/badge/Website-myeeco.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/company/myeecoapp/"><img src="https://img.shields.io/badge/myeecoapp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/myeecoapp/"><img src="https://img.shields.io/badge/Linkedin-myeecoapp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/myeecoapp"><img src="https://img.shields.io/badge/myeecoapp-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
