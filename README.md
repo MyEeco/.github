@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://myeeco.com"><img src="https://img.shields.io/badge/Website-myeeco.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
@@ -21,10 +21,10 @@ Podcast and live-audio platforms built for US/EU networks and payment rails don'
 
 Echo combines **on-demand podcast listening**, **live audio broadcasting**, and **offline-first playback** in a single cross-platform product — designed from the ground up around African network and payment realities rather than retrofitted for them.
 
-- 🎧 **Listen Together** — synchronized shared listening sessions with server-authoritative playback sync
-- 📡 **Live audio broadcasting** — low-latency RTMP ingestion with real-time listener presence and chat
-- 📱 **Offline-first mobile** — built for intermittent connectivity, not against it
-- 🎙️ **Creator tools** — a dedicated desktop studio for streamers and podcasters
+-  **Listen Together** — synchronized shared listening sessions with server-authoritative playback sync
+-  **Live audio broadcasting** — low-latency RTMP ingestion with real-time listener presence and chat
+-  **Offline-first mobile** — built for intermittent connectivity, not against it
+-  **Creator tools** — a dedicated desktop studio for streamers and podcasters
 
 ### How It's Built
 
