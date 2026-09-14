@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://myeeco.com"><img src="https://img.shields.io/badge/Website-myeeco.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://linkedin.com/company/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/myeecoapp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ---
