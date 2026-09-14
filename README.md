@@ -43,7 +43,7 @@ Built solo over 8+ months, now scaling to a small cross-functional team across m
 
 ### Team
 
-Founded and led by **Adeyeye Seyi** — self-taught engineer, sole architect of Echo's backend, mobile, and desktop systems.
+Founded by **Adeyeye Seyi**, **Innocents Ugo**, **Tolu Smith**
 
 ---
 
