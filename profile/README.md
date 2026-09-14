@@ -48,4 +48,4 @@ Founded by **Adeyeye Seyi**, **Innocents Ugo**, **Tolu Smith**
 
 ---
 
-<p align="center"><i>Interested in what we're building? Reach out — <a href="mailto:YOUR-EMAIL">YOUR-EMAIL</a></i></p>
+<p align="center"><i>Interested in what we're building? Reach out — <a href="mailto:ultra@myeeco.com">ultra@myeeco.com</a></i></p>
